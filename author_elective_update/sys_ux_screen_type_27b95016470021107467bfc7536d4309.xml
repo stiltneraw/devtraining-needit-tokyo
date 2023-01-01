@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Record3</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 13:44:10</sys_created_on>
+        <sys_id>27b95016470021107467bfc7536d4309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_type_27b95016470021107467bfc7536d4309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-30 13:44:10</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=27b95016470021107467bfc7536d4309"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3557c3e9db683b008aea21c405961993</instance_id>
+        <instance_name>dev78197</instance_name>
+        <name>sys_ux_screen_type_27b95016470021107467bfc7536d4309</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Record3</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-30 13:44:10</sys_created_on><sys_id>27b95016470021107467bfc7536d4309</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record3</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_type_27b95016470021107467bfc7536d4309</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-30 13:44:10</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=27b95016470021107467bfc7536d4309"/></record_update>]]></payload>
+        <payload_hash>-1829726353</payload_hash>
+        <record_name>Record3</record_name>
+        <reverted_from/>
+        <source>7ada183f473311107467bfc7536d43b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 13:44:11</sys_created_on>
+        <sys_id>e3b95016470021107467bfc7536d430b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1856346a01f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-30 13:44:11</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>2fb950162800211084a3a450a9d7b90a</update_guid>
+        <update_guid_history>2fb950162800211084a3a450a9d7b90a:-1829726353</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 13:46:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>007a4d3cd2484598801668f9c1f79449</sys_id>
+        <sys_metadata>27b95016470021107467bfc7536d4309</sys_metadata>
+        <sys_name>Record3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_27b95016470021107467bfc7536d4309</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_27b95016470021107467bfc7536d4309">e3b95016470021107467bfc7536d430b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

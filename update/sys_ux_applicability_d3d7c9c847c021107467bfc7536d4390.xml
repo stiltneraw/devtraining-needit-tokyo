@@ -4,7 +4,7 @@
         <api_name>x_58872_needit.NeedIt Admins</api_name>
         <description>Audience of users with the NeedIt admin role</description>
         <name>NeedIt Admins</name>
-        <roles name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</roles>
+        <roles>168e57609f213200bde5f79ff57fcfb4,2831a114c611228501d4ea6c309d626d</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-23 17:19:59</sys_created_on>
